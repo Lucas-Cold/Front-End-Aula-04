@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b9b9b9;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #940404;
+    font-family: 'Comic Sans MS';
+  }
+  
+  .post {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+  }
+  
+  .post h2 {
+    color: #940404;
+    font-family: 'Comic Sans MS';
+  }
+  
+  .post p {
+    line-height: 1.5;
+    font-family: 'Lucida Handwriting';
+  }
+  
+  small {
+    color: #0c0c0b;
+  }
